@@ -1,5 +1,5 @@
 name: locust
-version: 319
+version: 320
 resources:
   Cloud_Machine_1:
     type: Cloud.Machine
